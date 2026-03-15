@@ -1,5 +1,5 @@
 ### The dashboard for our final can be accessed here:
-*https://airlinedelayanalysis-final.streamlit.app/*
+*https://imt561-airline-delays.streamlit.app*
 
 ---
 
